@@ -1,0 +1,28 @@
+body {
+    background: #efefef;
+    font-family: 'Cinzel', serif;
+}
+h1{
+    font-size: 20px;
+}
+table{
+    border-spacing: 5cm;
+}a{
+    color: yellow;
+    text-decoration: underline;
+}
+a:hover {
+    color: #000000;
+    text-decoration: yellowgreen;
+}
+h4 {
+    font-size: 16px;
+}
+p{
+    font-size: 16px;
+}
+div + div{
+    margin-bottom: 5cm;
+}
+
+
